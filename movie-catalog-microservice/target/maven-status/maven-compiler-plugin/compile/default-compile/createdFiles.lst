@@ -1,0 +1,4 @@
+com\example\microserviceresilience\MovieCatalog.class
+com\example\microserviceresilience\MicroserviceResilienceApplication.class
+com\example\microserviceresilience\MoviesCatalogController.class
+com\example\microserviceresilience\ServletInitializer.class
